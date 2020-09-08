@@ -1,10 +1,12 @@
 # Dotfiles
 
-## .NET
+## Shell
 
-[See the Microsoft website](https://docs.microsoft.com/en-us/dotnet/core/install/linux-debian)
+Install `zsh` with `oh-my-shell`.
 
 ## LaTeX
+
+Install `LaTeX`:
 
 ```shell
 sudo apt-get install latexmk
