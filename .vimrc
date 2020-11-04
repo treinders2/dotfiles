@@ -9,7 +9,7 @@ filetype plugin on
 set encoding=utf-8
 set hidden
 
-if has("termguicolors")
+if has('termguicolors')
   set termguicolors
 endif
 
