@@ -35,6 +35,3 @@ set clipboard=unnamedplus
 
 set incsearch
 set ignorecase
-set hlsearch
-
-nnoremap <CR> :nohlsearch<CR>
