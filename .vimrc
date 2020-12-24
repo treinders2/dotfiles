@@ -8,6 +8,7 @@ filetype plugin on
 
 set encoding=utf-8
 set hidden
+set autoread
 
 if has('termguicolors')
   set termguicolors
@@ -35,3 +36,4 @@ set clipboard=unnamedplus
 
 set incsearch
 set ignorecase
+set smartcase
